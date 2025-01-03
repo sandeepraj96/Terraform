@@ -97,8 +97,6 @@ resource "aws_dynamodb_table" "mydydr" {
   }
 }
 
-
-
 # resource "aws_instance" "myinstance" {
 #    ami = var.ami
 #    for_each = {
