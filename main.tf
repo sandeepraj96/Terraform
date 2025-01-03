@@ -107,4 +107,4 @@ resource "aws_dynamodb_table" "mydydr" {
 #    }
 #    instance_type = each.value
 #    key_name = each.key
-# }
+#   }
